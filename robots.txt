@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fraser-p-chris.github.io/sitemap.xml

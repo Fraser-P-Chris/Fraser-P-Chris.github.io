@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fraser-p-chris.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fraser-p-chris.github.io/</loc>
+</url>
+<url>
+<loc>https://fraser-p-chris.github.io/job-related-stuff.html</loc>
+<lastmod>2022-12-19T03:01:38+01:00</lastmod>
+</url>
+<url>
+<loc>https://fraser-p-chris.github.io/my-drawings.html</loc>
+<lastmod>2022-12-19T03:28:22+01:00</lastmod>
+<image:image>
+<image:loc>https://fraser-p-chris.github.io/media\posts\3/gallery/Sigmeyer-of-Catarina-by-Chris-Fraser-thumbnail.png</image:loc>
+<image:title><![CDATA[Siegmeyer of Catarina from Darksouls 1 by Chris Fraser]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fraser-p-chris.github.io/media\posts\3/gallery/Demon-by-Chris-Fraser-thumbnail.png</image:loc>
+<image:title><![CDATA[Demon by Chris Fraser]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fraser-p-chris.github.io/media\posts\3/gallery/Spaceship-Face-by-Chris-Fraser-thumbnail.png</image:loc>
+<image:title><![CDATA[Spaceship Face by Chris Fraser]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fraser-p-chris.github.io/media\posts\3/gallery/Reaching-Hand-by-Chris-Fraser-thumbnail.png</image:loc>
+<image:title><![CDATA[Reaching Hand by Chris Fraser]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fraser-p-chris.github.io/media\posts\3/gallery/Flower-by-Chris-Fraser-thumbnail.png</image:loc>
+<image:title><![CDATA[Flower by Chris Fraser]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fraser-p-chris.github.io/media\posts\3/gallery/Focus-by-Chris-Fraser-thumbnail.png</image:loc>
+<image:title><![CDATA[Focus by Chris Fraser]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fraser-p-chris.github.io/title-site.html</loc>
+<lastmod>2022-12-19T03:37:26+01:00</lastmod>
+</url>
+</urlset>

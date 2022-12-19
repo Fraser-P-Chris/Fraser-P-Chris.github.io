@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "About Me",
+    "description": "",
+    "home_page_url": "https://fraser-p-chris.github.io",
+    "feed_url": "https://fraser-p-chris.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chris Fraser"
+    },
+    "items": [
+        {
+            "id": "https://fraser-p-chris.github.io/my-drawings.html",
+            "url": "https://fraser-p-chris.github.io/my-drawings.html",
+            "title": "My Drawings",
+            "summary": "Favorites Semi recognisable Abstract Paintings Flower Focus",
+            "content_html": "<p>Favorites</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Sigmeyer-of-Catarina-by-Chris-Fraser.png\" data-size=\"7016x9920\"><img loading=\"lazy\" src=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Sigmeyer-of-Catarina-by-Chris-Fraser-thumbnail.png\" alt=\"Siegmeyer of Catarina from Darksouls 1 by Chris Fraser\" width=\"720\" height=\"1018\"></a>\n<figcaption>Siegmeyer of Catarina from Darksouls 1</figcaption>\n</figure>\n</div></div>\n<p>Semi recognisable</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Demon-by-Chris-Fraser.png\" data-size=\"4960x3508\"><img loading=\"lazy\" src=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Demon-by-Chris-Fraser-thumbnail.png\" alt=\"Demon by Chris Fraser\" width=\"720\" height=\"509\"></a>\n<figcaption>Demon</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Spaceship-Face-by-Chris-Fraser.png\" data-size=\"2250x1688\"><img loading=\"lazy\" src=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Spaceship-Face-by-Chris-Fraser-thumbnail.png\" alt=\"Spaceship Face by Chris Fraser\" width=\"720\" height=\"540\"></a>\n<figcaption>Spaceship Face</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Reaching-Hand-by-Chris-Fraser.png\" data-size=\"4000x4000\"><img loading=\"lazy\" src=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Reaching-Hand-by-Chris-Fraser-thumbnail.png\" alt=\"Reaching Hand by Chris Fraser\" width=\"720\" height=\"720\"></a>\n<figcaption>Reaching Hand</figcaption>\n</figure>\n</div></div>\n<p>Abstract Paintings</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Flower-by-Chris-Fraser.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Flower-by-Chris-Fraser-thumbnail.png\" alt=\"Flower by Chris Fraser\" width=\"720\" height=\"405\"></a>\n<figcaption>Flower</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Focus-by-Chris-Fraser.png\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://fraser-p-chris.github.io/media/posts/3/gallery/Focus-by-Chris-Fraser-thumbnail.png\" alt=\"Focus by Chris Fraser\" width=\"720\" height=\"405\"></a>\n<figcaption>Focus</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Chris Fraser"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-19T03:02:02+01:00",
+            "date_modified": "2022-12-19T03:28:22+01:00"
+        },
+        {
+            "id": "https://fraser-p-chris.github.io/job-related-stuff.html",
+            "url": "https://fraser-p-chris.github.io/job-related-stuff.html",
+            "title": "Job Related stuff",
+            "summary": "CV and work experiances",
+            "content_html": "<p>CV and work experiances</p>",
+            "author": {
+                "name": "Chris Fraser"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-19T02:55:21+01:00",
+            "date_modified": "2022-12-19T03:01:38+01:00"
+        },
+        {
+            "id": "https://fraser-p-chris.github.io/title-site.html",
+            "url": "https://fraser-p-chris.github.io/title-site.html",
+            "title": "My 3D Renderings",
+            "summary": "Some of my 3D Models created with Blender Junghans Max Bill Ring of Favor",
+            "content_html": "<p>Some of my 3D Models created with Blender</p>\n<h1>Junghans Max Bill</h1>\n<div class=\"sketchfab-embed-wrapper\">\n<div class=\"sketchfab-embed-wrapper\">\n<div class=\"sketchfab-embed-wrapper\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"480\" title=\"Junghans Max Bill Watch\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking=\"\" execution-while-out-of-viewport=\"\" execution-while-not-rendered=\"\" web-share=\"\" src=\"https://sketchfab.com/models/42db2726b7254f40ba59dfc4855b57d1/embed\"> </iframe></div></div>\n<h1>Ring of Favor</h1>\n<div class=\"sketchfab-embed-wrapper\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"480\" title=\"Ring of Favor\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking=\"\" execution-while-out-of-viewport=\"\" execution-while-not-rendered=\"\" web-share=\"\" src=\"https://sketchfab.com/models/e57c021eb6b24ac29a068840ac3606ac/embed\" data-mce-fragment=\"1\"> </iframe></div></div>\n</div>\n</div>",
+            "author": {
+                "name": "Chris Fraser"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-19T02:47:46+01:00",
+            "date_modified": "2022-12-19T03:37:26+01:00"
+        }
+    ]
+}

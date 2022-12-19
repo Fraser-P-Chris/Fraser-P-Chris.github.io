@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>About Me</title>
+    <link href="https://fraser-p-chris.github.io/feed.xml" rel="self" />
+    <link href="https://fraser-p-chris.github.io" />
+    <updated>2022-12-19T03:37:26+01:00</updated>
+    <author>
+        <name>Chris Fraser</name>
+    </author>
+    <id>https://fraser-p-chris.github.io</id>
+
+    <entry>
+        <title>My Drawings</title>
+        <author>
+            <name>Chris Fraser</name>
+        </author>
+        <link href="https://fraser-p-chris.github.io/my-drawings.html"/>
+        <id>https://fraser-p-chris.github.io/my-drawings.html</id>
+
+        <updated>2022-12-19T03:28:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Favorites Semi recognisable Abstract Paintings Flower Focus
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Favorites</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://fraser-p-chris.github.io/media/posts/3/gallery/Sigmeyer-of-Catarina-by-Chris-Fraser.png" data-size="7016x9920"><img loading="lazy" src="https://fraser-p-chris.github.io/media/posts/3/gallery/Sigmeyer-of-Catarina-by-Chris-Fraser-thumbnail.png" alt="Siegmeyer of Catarina from Darksouls 1 by Chris Fraser" width="720" height="1018"></a>
+<figcaption>Siegmeyer of Catarina from Darksouls 1</figcaption>
+</figure>
+</div></div>
+<p>Semi recognisable</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://fraser-p-chris.github.io/media/posts/3/gallery/Demon-by-Chris-Fraser.png" data-size="4960x3508"><img loading="lazy" src="https://fraser-p-chris.github.io/media/posts/3/gallery/Demon-by-Chris-Fraser-thumbnail.png" alt="Demon by Chris Fraser" width="720" height="509"></a>
+<figcaption>Demon</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://fraser-p-chris.github.io/media/posts/3/gallery/Spaceship-Face-by-Chris-Fraser.png" data-size="2250x1688"><img loading="lazy" src="https://fraser-p-chris.github.io/media/posts/3/gallery/Spaceship-Face-by-Chris-Fraser-thumbnail.png" alt="Spaceship Face by Chris Fraser" width="720" height="540"></a>
+<figcaption>Spaceship Face</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://fraser-p-chris.github.io/media/posts/3/gallery/Reaching-Hand-by-Chris-Fraser.png" data-size="4000x4000"><img loading="lazy" src="https://fraser-p-chris.github.io/media/posts/3/gallery/Reaching-Hand-by-Chris-Fraser-thumbnail.png" alt="Reaching Hand by Chris Fraser" width="720" height="720"></a>
+<figcaption>Reaching Hand</figcaption>
+</figure>
+</div></div>
+<p>Abstract Paintings</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://fraser-p-chris.github.io/media/posts/3/gallery/Flower-by-Chris-Fraser.png" data-size="3840x2160"><img loading="lazy" src="https://fraser-p-chris.github.io/media/posts/3/gallery/Flower-by-Chris-Fraser-thumbnail.png" alt="Flower by Chris Fraser" width="720" height="405"></a>
+<figcaption>Flower</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://fraser-p-chris.github.io/media/posts/3/gallery/Focus-by-Chris-Fraser.png" data-size="3840x2160"><img loading="lazy" src="https://fraser-p-chris.github.io/media/posts/3/gallery/Focus-by-Chris-Fraser-thumbnail.png" alt="Focus by Chris Fraser" width="720" height="405"></a>
+<figcaption>Focus</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Job Related stuff</title>
+        <author>
+            <name>Chris Fraser</name>
+        </author>
+        <link href="https://fraser-p-chris.github.io/job-related-stuff.html"/>
+        <id>https://fraser-p-chris.github.io/job-related-stuff.html</id>
+
+        <updated>2022-12-19T03:01:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    CV and work experiances
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>CV and work experiances</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My 3D Renderings</title>
+        <author>
+            <name>Chris Fraser</name>
+        </author>
+        <link href="https://fraser-p-chris.github.io/title-site.html"/>
+        <id>https://fraser-p-chris.github.io/title-site.html</id>
+
+        <updated>2022-12-19T03:37:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Some of my 3D Models created with Blender Junghans Max Bill Ring of Favor
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Some of my 3D Models created with Blender</p>
+<h1>Junghans Max Bill</h1>
+<div class="sketchfab-embed-wrapper">
+<div class="sketchfab-embed-wrapper">
+<div class="sketchfab-embed-wrapper"><div class="post__iframe"><iframe loading="lazy" width="640" height="480" title="Junghans Max Bill Watch" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking="" execution-while-out-of-viewport="" execution-while-not-rendered="" web-share="" src="https://sketchfab.com/models/42db2726b7254f40ba59dfc4855b57d1/embed"> </iframe></div></div>
+<h1>Ring of Favor</h1>
+<div class="sketchfab-embed-wrapper"><div class="post__iframe"><iframe loading="lazy" width="640" height="480" title="Ring of Favor" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking="" execution-while-out-of-viewport="" execution-while-not-rendered="" web-share="" src="https://sketchfab.com/models/e57c021eb6b24ac29a068840ac3606ac/embed" data-mce-fragment="1"> </iframe></div></div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
