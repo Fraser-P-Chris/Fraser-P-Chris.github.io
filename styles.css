@@ -1,10 +1,11 @@
 body {
 	background-color:#121212;
 	color:#E0E0E0;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 
-  font-family: "Uncial Antiqua", serif;
-  font-weight: 400;
-  font-style: normal;
 }
 
 html body.main_body font font ul li{
@@ -59,6 +60,9 @@ a.icon_help_linik svg{
 }
 
 .index_title{
+    font-family: "Uncial Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .main_index_title{
@@ -75,5 +79,26 @@ margin:0px;
   text-align: center;
 }
 
+.text_size_3{
+    font-size:40px;
+    font-family: "Uncial Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text_size_2{
+    font-size:30px;
+    font-family: "Uncial Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text_size_1{
+    font-size:20px;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
 
 
