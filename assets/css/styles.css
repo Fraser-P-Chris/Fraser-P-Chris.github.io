@@ -52,6 +52,24 @@ margin:0px;
 margin:0px;
   text-align: center;
 }
+
+
+.credits_title{
+    font-size:20px;
+    display:inline;
+}
+
+.credits_table tr td{
+ padding-right: 10px;
+}
+.credits_table{
+    font-size:15px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+
 /* --------------------- */
 
 
