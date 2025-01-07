@@ -14,6 +14,8 @@ body {
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
     font-style: normal;
+    padding-bottom: 40px;
+
 }
 hr {
   width: 100%;
@@ -116,6 +118,29 @@ a.icon_index_link svg{
     width: 10em;
 }
 
+
+.verdana_navigate_top .second_size_2{
+    color: #2AACB8;
+}
+
+.verdana_navigate_top .second_size_2{
+    color: #2AACB8;
+}
+
+/* Actual navigate */
+.navigate_bottom{
+    font-size:40px;
+    font-family: "Uncial Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #2AACB8;
+}
+
+.navigate_bottom a{
+    color: #2AACB8;
+}
+
+
 /* Chapter number Book name and hierarhcy*/
 .text_size_2, ul, i{
     font-size:30px;
@@ -139,15 +164,15 @@ a.icon_index_link svg{
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
     font-style: normal;
-    color: #CF8E6D;
+    /* color: #CF8E6D; */
 }
 /* Top Previous - Next */
 html body.main_body font.verdana_navigate_top center font.second_size_2 b a{
-color: #CF8E6D;
+    color: #2AACB8;
 }
 /* Bottom Previous - Next */
 html body.main_body center font.verdana_navigate_top center b a{
-color: #CF8E6D;
+    color: #2AACB8;
 }
 /* --------------------- */
 
