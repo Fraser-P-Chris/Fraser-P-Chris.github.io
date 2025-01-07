@@ -1,0 +1,79 @@
+body {
+	background-color:#121212;
+	color:#E0E0E0;
+
+  font-family: "Uncial Antiqua", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+html body.main_body font font ul li{
+  font-family: "Uncial Antiqua", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+hr {
+  width: 100%;
+  border-color: #D10373;
+
+}
+
+ /* unvisited link */
+a:link {
+  color: #b3d0e2;
+  text-decoration: none;
+  
+}
+
+/* visited link */
+a:visited {
+  color: #b3d0e2;
+  text-decoration: none;
+}
+
+.header_table{
+
+}
+
+.icon_table{
+}
+
+a.icon_chi_rho_link svg{
+    display-block;
+    width:80px;
+    height:80px;
+    fill:#D10373;
+}
+a.icon_index_link svg{
+    width:60px;
+    height:60px;
+    margin-right:20px;
+    margin-left:20px;
+    stroke: #D10373;
+}
+a.icon_help_linik svg{
+    width:60px;
+    height:60px;
+    stroke: #D10373;
+}
+
+.index_title{
+}
+
+.main_index_title{
+    font-size:50px;
+    margin:0px;
+    text-align: center;
+}
+.date_index_title{
+margin:0px;
+  text-align: center;
+}
+.credits_and_index_title{
+margin:0px;
+  text-align: center;
+}
+
+
+
