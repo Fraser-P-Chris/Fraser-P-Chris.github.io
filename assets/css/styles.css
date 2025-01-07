@@ -14,9 +14,8 @@ body {
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
     font-style: normal;
-    padding-bottom: 40px;
+    padding-bottom: 80px;
     display:inline-block
-
 }
 hr {
   width: 100%;
@@ -46,6 +45,14 @@ a:visited {
     font-size:70px;
     margin:0px;
     text-align: center;
+}
+
+.index_image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 40em;
+    
 }
 .date_index_title{
 margin:0px;
