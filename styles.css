@@ -1,6 +1,15 @@
+/* orange CF8E6D
+blue 56A8F5
+azure 2AACB8
+green 6AAB73
+Background 1E1F22
+white text: BCBEC4
+Purple: C77DBB
+ */
+
 body {
-	background-color:#121212;
-	color:#E0E0E0;
+	background-color:#1E1F22;
+	color:#BCBEC4;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
@@ -16,19 +25,19 @@ html body.main_body font font ul li{
 
 hr {
   width: 100%;
-  border-color: #D10373;
+  border-color: #CF8E6D;
 
 }
 
  /* unvisited link */
 a:link {
-  color: #b3d0e2;
+  color: #2AACB8;
   text-decoration: none;
   
 }
 /* visited link */
 a:visited {
-  color: #b3d0e2;
+  color: #C77DBB;
   text-decoration: none;
 }
 
@@ -37,14 +46,14 @@ a:visited {
 a.icon_chi_rho_link svg{
     width:80px;
     height:80px;
-    fill:#D10373;
+    fill:#CF8E6D;
 }
 a.icon_index_link svg{
     width:60px;
     height:60px;
     margin-right:20px;
     margin-left:20px;
-    stroke: #D10373;
+    stroke: #CF8E6D;
 }
 
 /* Title on index.html THE NEW AMERICAN BIBLE */
@@ -141,18 +150,16 @@ margin:0px;
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
     font-style: normal;
-    color: #D10373;
+    color: #CF8E6D;
 }
 /* Top Previous - Next */
 html body.main_body font.verdana_navigate_top center font.second_size_2 b a{
-color: #D10373;
+color: #CF8E6D;
 }
 /* Bottom Previous - Next */
 html body.main_body center font.verdana_navigate_top center b a{
-color: #D10373;
+color: #CF8E6D;
 }
-
-
 
 
 
