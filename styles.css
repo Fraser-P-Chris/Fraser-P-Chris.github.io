@@ -26,22 +26,15 @@ a:link {
   text-decoration: none;
   
 }
-
 /* visited link */
 a:visited {
   color: #b3d0e2;
   text-decoration: none;
 }
 
-.header_table{
 
-}
-
-.icon_table{
-}
-
+/* SVG Icons */
 a.icon_chi_rho_link svg{
-    display-block;
     width:80px;
     height:80px;
     fill:#D10373;
@@ -53,18 +46,13 @@ a.icon_index_link svg{
     margin-left:20px;
     stroke: #D10373;
 }
-a.icon_help_linik svg{
-    width:60px;
-    height:60px;
-    stroke: #D10373;
-}
 
+/* Title on index.html THE NEW AMERICAN BIBLE */
 .index_title{
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
     font-style: normal;
 }
-
 .main_index_title{
     font-size:50px;
     margin:0px;
@@ -79,14 +67,17 @@ margin:0px;
   text-align: center;
 }
 
-.text_size_3{
+
+
+
+.text_size_3 , .header_title{
     font-size:40px;
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
     font-style: normal;
 }
 
-.text_size_2{
+.text_size_2, ul, i{
     font-size:30px;
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
@@ -102,3 +93,82 @@ margin:0px;
 }
 
 
+/* .verdana_size_2{
+    font-size:44px;
+    font-family: "Uncial Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+} */
+
+
+/* Number of footnotes */
+.second_size_3{
+    font-size:25px;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+/* footnotes Text */
+.verdana_size_1{
+    font-size:25px;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.second_size_2{
+}
+.second_size_1{
+}
+
+/* Center "New American Bible" on all pages */
+.header_table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+/*Previous - Next */
+.verdana_navigate_top{
+    margin:0px;
+    font-size:60px;
+    font-family: "Uncial Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #D10373;
+}
+/* Top Previous - Next */
+html body.main_body font.verdana_navigate_top center font.second_size_2 b a{
+color: #D10373;
+}
+/* Bottom Previous - Next */
+html body.main_body center font.verdana_navigate_top center b a{
+color: #D10373;
+}
+
+
+
+
+
+/* Main Body Text */
+html body.main_body p.MsoNormal{
+    font-size:25px;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+html body.main_body p.MsoNormal sup font.verdana_size_2 sup a{
+    font-size:25px;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
