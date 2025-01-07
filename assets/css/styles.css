@@ -149,20 +149,24 @@ p.main_text_block{
 
 
 /* Footnotes */
-/* Number of footnotes */
-.second_size_3{
-    font-size:25px;
+.second_size_3, .verdana_size_1{
+    font-size:30px;
+    width:50em;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
     font-style: normal;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+/* Number of footnotes */
+.second_size_3{
+
 }
 
 /* footnotes Text */
 .verdana_size_1{
-    font-size:25px;
-    font-family: "JetBrains Mono", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+
 }
 /* --------------------- */
 
