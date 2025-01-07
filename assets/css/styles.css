@@ -7,55 +7,32 @@ white text: BCBEC4
 Purple: C77DBB
  */
 
+/* Defaults */
 body {
 	background-color:#1E1F22;
 	color:#BCBEC4;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
-
 }
-
-html body.main_body font font ul li{
-  font-family: "Uncial Antiqua", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 hr {
   width: 100%;
   border-color: #CF8E6D;
-
 }
-
- /* unvisited link */
 a:link {
   color: #2AACB8;
   text-decoration: none;
   
 }
-/* visited link */
 a:visited {
   color: #C77DBB;
   text-decoration: none;
 }
 
 
-/* SVG Icons */
-a.icon_chi_rho_link svg{
-    width:80px;
-    height:80px;
-    fill:#CF8E6D;
-}
-a.icon_index_link svg{
-    width:60px;
-    height:60px;
-    margin-right:20px;
-    margin-left:20px;
-    stroke: #CF8E6D;
-}
 
+
+/* index.hml */
 /* Title on index.html THE NEW AMERICAN BIBLE */
 .index_title{
     font-family: "Uncial Antiqua", serif;
@@ -75,17 +52,45 @@ margin:0px;
 margin:0px;
   text-align: center;
 }
+/* --------------------- */
 
 
 
+
+
+/* SVG Icons */
+a.icon_chi_rho_link svg{
+    width:80px;
+    height:80px;
+    fill:#CF8E6D;
+}
+a.icon_index_link svg{
+    width:60px;
+    height:60px;
+    margin-right:20px;
+    margin-left:20px;
+    stroke: #CF8E6D;
+}
+/* --------------------- */
+
+
+
+/* Center "New American Bible" on all pages */
+.header_table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .text_size_3 , .header_title{
-    font-size:40px;
+    font-size:60px;
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
     font-style: normal;
 }
+/* --------------------- */
 
+/* Chapter number Book name and hierarhcy*/
 .text_size_2, ul, i{
     font-size:30px;
     font-family: "Uncial Antiqua", serif;
@@ -97,56 +102,14 @@ margin:0px;
     font-size:20px;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
 }
-
-
-/* .verdana_size_2{
-    font-size:44px;
-    font-family: "Uncial Antiqua", serif;
-    font-weight: 400;
-    font-style: normal;
-} */
-
-
-/* Number of footnotes */
-.second_size_3{
-    font-size:25px;
-    font-family: "JetBrains Mono", serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-}
-
-/* footnotes Text */
-.verdana_size_1{
-    font-size:25px;
-    font-family: "JetBrains Mono", serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-}
-
-.second_size_2{
-}
-.second_size_1{
-}
-
-/* Center "New American Bible" on all pages */
-.header_table{
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-
+/* --------------------- */
 
 /*Previous - Next */
 .verdana_navigate_top{
     margin:0px;
-    font-size:60px;
+    font-size:40px;
     font-family: "Uncial Antiqua", serif;
     font-weight: 400;
     font-style: normal;
@@ -160,22 +123,52 @@ color: #CF8E6D;
 html body.main_body center font.verdana_navigate_top center b a{
 color: #CF8E6D;
 }
-
-
+/* --------------------- */
 
 /* Main Body Text */
-html body.main_body p.MsoNormal{
+/* Main Body Text */
+p.MsoNormal, .main_text_block{
+    font-size:30px;
+    width:50em;
+    font-family: "JetBrains Mono", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Text Number */
+p.MsoNormal{
+    color: #CF8E6D;
+}
+/* Text*/
+p.main_text_block{
+    color:#BCBEC4;
+}
+/* --------------------- */
+
+
+
+/* Footnotes */
+/* Number of footnotes */
+.second_size_3{
     font-size:25px;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
 }
 
-html body.main_body p.MsoNormal sup font.verdana_size_2 sup a{
+/* footnotes Text */
+.verdana_size_1{
     font-size:25px;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
+}
+/* --------------------- */
+
+
+/* Unused classes */
+.second_size_2{
+}
+.second_size_1{
 }
