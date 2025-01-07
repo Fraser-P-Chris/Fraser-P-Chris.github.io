@@ -15,6 +15,7 @@ body {
     font-optical-sizing: auto;
     font-style: normal;
     padding-bottom: 40px;
+    display:inline-block
 
 }
 hr {
@@ -42,7 +43,7 @@ a:visited {
     font-style: normal;
 }
 .main_index_title{
-    font-size:50px;
+    font-size:70px;
     margin:0px;
     text-align: center;
 }
@@ -149,8 +150,16 @@ a.icon_index_link svg{
     font-style: normal;
 }
 
+.text_size_2{
+    font-size:50px;
+}
+
+.text_size_3{
+    font-size:55px;
+}
+
 .text_size_1{
-    font-size:20px;
+    font-size:40px;
     font-family: "JetBrains Mono", serif;
     font-optical-sizing: auto;
     font-style: normal;
